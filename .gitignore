@@ -1,0 +1,24 @@
+# 1. Python venv
+.venv/
+venv/
+
+# 2. Data & Results
+data/
+runs/
+
+# 3. Model weights
+*.pt
+*.pth
+*.onnx
+
+# 4. Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 5. Editor/IDE
+.idea/
+.vscode/
+
+# 6. Logs
+*.log

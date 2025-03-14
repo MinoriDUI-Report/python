@@ -1,0 +1,17 @@
+# Core libraries
+numpy
+pandas
+
+# Computer Vision
+opencv-python
+
+# YOLO
+ultralytics
+
+# PyTorch
+torch
+torchvision
+torchaudio
+
+# Web framework
+Flask
