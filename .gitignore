@@ -3,7 +3,7 @@
 venv/
 
 # 2. Data & Results
-data/
+data/raw/
 runs/
 
 # 3. Model weights
