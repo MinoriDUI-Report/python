@@ -56,7 +56,7 @@ def check_feature_files(folder_path):
     return pd.DataFrame(result)
 
 if __name__ == "__main__":
-    root_dir = "/Users/jiwonkim/Desktop/GradProj/sober_file"
+    root_dir = "/Users/jiwonkim/Desktop/GradProj/drunk_file"
     df = check_feature_files(root_dir)
     print(df)
     df.to_csv("feature_integrity_check.csv", index=False)

@@ -1,0 +1,15 @@
+folder,pose_exists,face_exists,velocity_exists,pose_valid,face_valid,velocity_valid,pose_length,face_length,velocity_length
+drunk_01,True,True,True,True,True,True,50,50,50
+drunk_02,True,True,True,True,True,True,986,986,986
+drunk_03,True,True,True,True,True,True,1538,1538,1538
+drunk_04,True,True,True,True,True,True,5818,5818,5818
+drunk_05,True,True,True,True,True,True,8090,8090,8090
+drunk_06,True,True,True,True,True,True,7917,7917,7917
+drunk_07,True,True,True,True,True,True,274,274,274
+drunk_08,True,True,True,True,True,True,956,956,956
+drunk_09,True,True,True,True,True,True,1464,1464,1464
+drunk_10,True,True,True,True,True,True,834,834,834
+drunk_11,True,True,True,True,True,True,1780,1780,1780
+drunk_12,True,True,True,True,True,True,173,173,173
+drunk_13,True,True,True,True,True,True,339,339,339
+drunk_14,True,True,True,True,True,True,1143,1143,1143

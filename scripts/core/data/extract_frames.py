@@ -46,8 +46,8 @@ def extract_frames_from_video(video_path, output_folder, interval=3):
 
 # -------------------------
 # 기본 경로 설정
-input_folder = "/Users/jiwonkim/Desktop/GradProj/drunk"
-output_base_folder = "/Users/jiwonkim/Desktop/GradProj/drunk_file"
+input_folder = "/Users/jiwonkim/Desktop/GradProj/sober"
+output_base_folder = "/Users/jiwonkim/Desktop/GradProj/sober_file"
 
 # 입력 폴더 내에 있는 모든 .mp4 파일 찾기
 video_files = [f for f in os.listdir(input_folder) if f.lower().endswith(".mp4")]
